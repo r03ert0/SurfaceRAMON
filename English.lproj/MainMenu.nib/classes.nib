@@ -1,0 +1,15 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {standard = id; zoom = id; }; 
+            CLASS = MyAppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {text = id; view = MyView; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = MyTextView; LANGUAGE = ObjC; SUPERCLASS = NSTextView; }, 
+        {CLASS = MyView; LANGUAGE = ObjC; SUPERCLASS = NSView; }
+    ); 
+    IBVersion = 1; 
+}

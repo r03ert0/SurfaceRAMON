@@ -1,0 +1,979 @@
+TSurfaceRAMON
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Info.plist /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Info.plist
+cStripNIB /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource SurfaceRAMON.icns build/Debug/SurfaceRAMON.app/Contents/Resources/SurfaceRAMON.icns
+cProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.o /Users/roberto/Applications/brainbits/RAMONES/RAMON.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.o /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/MacOS/SurfaceRAMON normal x86_64
+cTouch /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005282156E00000000000000AA
+t1384256878
+s170
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052691997000000000000044C
+t1382619543
+s1100
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005269199700000000000001DB
+t1382619543
+s475
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c000000005269199700000000002682C8
+t1382619543
+s2523848
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000526919970000000000007D5C
+t1382619543
+s32092
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000526919970000000000020D64
+t1382619543
+s134500
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c0000000052691997000000000001B3B8
+t1382619543
+s111544
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000526919970000000000034F94
+t1382619543
+s216980
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c0000000052691997000000000000CB08
+t1382619543
+s51976
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c0000000052691997000000000002C5F4
+t1382619543
+s181748
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c0000000052691997000000000002B9A8
+t1382619543
+s178600
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000526919970000000000011EF8
+t1382619543
+s73464
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000526919970000000000059898
+t1382619543
+s366744
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052691997000000000000253C
+t1382619543
+s9532
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000052691997000000000004C7C4
+t1382619543
+s313284
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000526919970000000000085C78
+t1382619543
+s547960
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052691997000000000008B2C4
+t1382619543
+s570052
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000052691997000000000000979C
+t1382619543
+s38812
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c000000005269199700000000000223B4
+t1382619543
+s140212
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000526919970000000000071A98
+t1382619543
+s465560
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000526919970000000000017E1C
+t1382619543
+s97820
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c0000000052691997000000000004F094
+t1382619543
+s323732
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c0000000052691997000000000003AA44
+t1382619543
+s240196
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c000000005269199700000000000383CC
+t1382619543
+s230348
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c0000000052691997000000000001B66C
+t1382619543
+s112236
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000526919970000000000030444
+t1382619543
+s197700
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005269199700000000000C9E68
+t1382619543
+s826984
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c000000005269199700000000000394F8
+t1382619543
+s234744
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000052691998000000000000BB7C
+t1382619544
+s47996
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c000000005269199800000000000211A0
+t1382619544
+s135584
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000526919980000000000005F00
+t1382619544
+s24320
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c000000005269199A000000000000681C
+t1382619546
+s26652
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+c000000005269199A0000000000014EF8
+t1382619546
+s85752
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c000000005269199A0000000000004734
+t1382619546
+s18228
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005269199A000000000000FC6C
+t1382619546
+s64620
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c000000005269199A000000000000F6A0
+t1382619546
+s63136
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c000000005269199A0000000000006254
+t1382619546
+s25172
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c000000005269199A000000000000E0F8
+t1382619546
+s57592
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c000000005269199A000000000000D6DC
+t1382619546
+s55004
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c000000005269199A0000000000006308
+t1382619546
+s25352
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c000000005269199A0000000000004050
+t1382619546
+s16464
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c000000005269199A0000000000008570
+t1382619546
+s34160
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c000000005269199A0000000000005EA0
+t1382619546
+s24224
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c000000005269199A0000000000005FAC
+t1382619546
+s24492
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c000000005269199A0000000000004440
+t1382619546
+s17472
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c000000005269199A000000000000AA28
+t1382619546
+s43560
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005269199A0000000000003E2C
+t1382619546
+s15916
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c000000005269199A0000000000030A24
+t1382619546
+s199204
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c000000005269199A0000000000005E54
+t1382619546
+s24148
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005269199A0000000000006A90
+t1382619546
+s27280
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c000000005269199A00000000000178AC
+t1382619546
+s96428
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005269199A000000000001ADC8
+t1382619546
+s110024
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c000000005269199A000000000001028C
+t1382619546
+s66188
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c000000005269199A0000000000008800
+t1382619546
+s34816
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c000000005269199A0000000000011090
+t1382619546
+s69776
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c000000005269199A000000000000882C
+t1382619546
+s34860
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005269199A00000000000067AC
+t1382619546
+s26540
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c000000005269199A0000000000008DEC
+t1382619546
+s36332
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005269199A0000000000004C08
+t1382619546
+s19464
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005269199A00000000000023C0
+t1382619546
+s9152
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c000000005269199A000000000000439C
+t1382619546
+s17308
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c000000005269199A0000000000006768
+t1382619546
+s26472
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c000000005269199A00000000000172F4
+t1382619546
+s94964
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c000000005269199F0000000000001750
+t1382619551
+s5968
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000526777B600000000000066C0
+t1382512566
+s26304
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000526777C1000000000002C960
+t1382512577
+s182624
+
+N/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c
+c000000004AFBDBD10000000000002200
+t1258019793
+s8704
+
+N/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.h
+c00000000499962FC0000000000000402
+t1234789116
+s1026
+
+N/Users/roberto/Applications/brainbits/RAMONES/RAMON.h
+c000000004537A6F600000000000003AA
+t1161275126
+s938
+
+N/Users/roberto/Applications/brainbits/RAMONES/RAMON.m
+c000000004537B0490000000000000D65
+t1161277513
+s3429
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/InfoPlist.strings
+c000000004538998300000000000000FE
+t1161337219
+s254
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/MainMenu.nib
+c000000004537B67B00000000000000AA
+t1161279099
+s170
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Info.plist
+c0000000045389842000000000000031D
+t1161336898
+s797
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.h
+c0000000045377C5F000000000000017F
+t1161264223
+s383
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m
+c00000000530B4DEC000000000000068F
+t1393249772
+s1679
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.h
+c000000004537450300000000000000C7
+t1161250051
+s199
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m
+c00000000453745030000000000000A14
+t1161250051
+s2580
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.h
+c000000004DF9F55F0000000000000376
+t1308226911
+s886
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m
+c000000004DFA65170000000000001F98
+t1308255511
+s8088
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON.icns
+c00000000453897F3000000000000C4B6
+t1161336819
+s50358
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch
+c0000000044351CD5000000000000009B
+t1144331477
+s155
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.h
+c000000004024A08400000000000001EF
+t1076142212
+s495
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m
+c0000000043773B25000000000000196A
+t1131887397
+s6506
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app
+t1393249902
+s102
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Info.plist
+t1393249902
+s1216
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/MacOS/SurfaceRAMON
+t1393249902
+s78948
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/PkgInfo
+t1393249902
+s8
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1393249902
+s254
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj/MainMenu.nib
+t1393249902
+s23164
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/SurfaceRAMON.icns
+t1393249902
+s50358
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.o
+t1393249902
+s20276
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.o
+t1393249902
+s28240
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.o
+t1393249902
+s29192
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.o
+t1393249902
+s66396
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.o
+t1393249902
+s22136
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/SurfaceRAMON.LinkFileList
+c00000000530B4E6E00000000000003E5
+t1393249902
+s997
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.o
+t1393249902
+s24768
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.o
+t1393249902
+s2864
+
+N/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m
+c0000000044351CD50000000000000105
+t1144331477
+s261
+
+N/Users/roberto/Applications/brainbits/RAMONES/colourmap.h
+c000000004527478A0000000000004F54
+t1160202122
+s20308
+
+N/var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.pch
+t1393249436
+s110128
+
+N/var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.pch
+t1393249436
+s13708748
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/RAMON.m
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies943261ee85bbb841^390c62ee85bbb841^---0#1#1#--18"Check dependencies36"214CAE87-3319-4D77-86F5-FD4850B1DC4F-
+
+CCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.o /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s414942702.776245
+e414942702.830848
+r1
+xCompileC
+xbuild/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.o
+x/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c
+d/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.h
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+o        if(endianness=kINTEL)
+o           ~~~~~~~~~~^~~~~~~
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: note: place parentheses around the assignment to silence this warning
+o        if(endianness=kINTEL)
+o                     ^
+o           (                )
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: note: use '==' to turn this assignment into an equality comparison
+o        if(endianness=kINTEL)
+o                     ^
+o                     ==
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+o        if(endianness=kINTEL)
+o           ~~~~~~~~~~^~~~~~~
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: note: place parentheses around the assignment to silence this warning
+o        if(endianness=kINTEL)
+o                     ^
+o           (                )
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: note: use '==' to turn this assignment into an equality comparison
+o        if(endianness=kINTEL)
+o                     ^
+o                     ==
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c212"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.o /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerd8d7c6ee85bbb841^64b2d4ee85bbb841^-1324"/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]        if(endianness=kINTEL)           ~~~~~~~~~~^~~~~~~/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: note: place parentheses around the assignment to silence this warning        if(endianness=kINTEL)                     ^           (                )/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: note: use '==' to turn this assignment into an equality comparison        if(endianness=kINTEL)                     ^                     ==/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]        if(endianness=kINTEL)           ~~~~~~~~~~^~~~~~~/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: note: place parentheses around the assignment to silence this warning        if(endianness=kINTEL)                     ^           (                )/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: note: use '==' to turn this assignment into an equality comparison        if(endianness=kINTEL)                     ^                     ==2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@68"Using the result of an assignment as a condition without parentheses-414942702#18446744073709551615#0#2(2@63"Place parentheses around the assignment to silence this warning-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#14#302#14#7309#0#14"Semantic Issue2(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#4#302#4#7299#0#3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#21#302#21#7316#0#-2@60"Use '==' to turn this assignment into an equality comparison-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#14#302#14#7309#0#14"Semantic Issue1(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#14#302#15#7309#1#-1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#14#302#14#7309#0#14"Semantic Issue1(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#4#302#21#7299#11#-2@68"Using the result of an assignment as a condition without parentheses-414942702#18446744073709551615#0#2(2@63"Place parentheses around the assignment to silence this warning-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#14#315#14#7507#0#14"Semantic Issue2(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#4#315#4#7497#0#3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#21#315#21#7514#0#-2@60"Use '==' to turn this assignment into an equality comparison-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#14#315#14#7507#0#14"Semantic Issue1(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#14#315#15#7507#1#-1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#14#315#14#7507#0#14"Semantic Issue1(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#4#315#21#7497#11#-0#0#1#-19%DVTDocumentLocation4@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^2646"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.o /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.dia -c /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.o36"60BFAC59-2B9C-4EDE-B000-9FE67EA977DF-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942702.775904
+e414942702.837413
+r1
+xCompileC
+xbuild/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.o
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.h
+d/Users/roberto/Applications/brainbits/RAMONES/RAMON.h
+d/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.h
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.h
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.h
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m186"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.o MyAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilereeb3c6ee85bbb841^3961d6ee85bbb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m0000000000000000^2856"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.o MyAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.dia -c /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyAppController.m -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.o36"597F14D0-F93B-4BE7-A786-9F98C7A56206-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942702.776335
+e414942702.831864
+r1
+xCompileC
+xbuild/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.o
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.h
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:21:32: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]
+o                        [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];
+o                                                    ^~~~~~
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:36: note: passing argument to parameter 'startPtr' here
+o- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;
+o                                   ^
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:21:43: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]
+o                        [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];
+o                                                               ^~~~
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:63: note: passing argument to parameter 'lineEndPtr' here
+o- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;
+o                                                              ^
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:26:9: warning: instance method '-applyScript:' not found (return type defaults to 'id') [-Wobjc-method-access]
+o                        [app applyScript:s];
+o                             ^~~~~~~~~~~
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:43:31: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]
+o                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];
+o                                            ^~~~~~
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:36: note: passing argument to parameter 'startPtr' here
+o- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;
+o                                   ^
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:43:42: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]
+o                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];
+o                                                       ^~~~
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:63: note: passing argument to parameter 'lineEndPtr' here
+o- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;
+o                                                              ^
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:55:31: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]
+o                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];
+o                                            ^~~~~~
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:36: note: passing argument to parameter 'startPtr' here
+o- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;
+o                                   ^
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:55:42: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]
+o                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];
+o                                                       ^~~~
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:63: note: passing argument to parameter 'lineEndPtr' here
+o- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;
+o                                                              ^
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:78:31: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]
+o                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];
+o                                            ^~~~~~
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:36: note: passing argument to parameter 'startPtr' here
+o- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;
+o                                   ^
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:78:42: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]
+o                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];
+o                                                       ^~~~
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:63: note: passing argument to parameter 'lineEndPtr' here
+o- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;
+o                                                              ^
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:110:17: warning: 'writeToFile:atomically:' is deprecated: first deprecated in OS X 10.4 [-Wdeprecated-declarations]
+o        [[self string] writeToFile:path atomically:YES];
+o                       ^
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:351:1: note: method 'writeToFile:atomically:' declared here
+o- (BOOL)writeToFile:(NSString *)path atomically:(BOOL)useAuxiliaryFile NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);
+o^
+o10 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m176"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.o MyTextView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerafd1c6ee85bbb841^e8f4d4ee85bbb841^-15006"/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:21:32: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]                        [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];                                                    ^~~~~~In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:36: note: passing argument to parameter 'startPtr' here- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;                                   ^/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:21:43: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]                        [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];                                                               ^~~~In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:63: note: passing argument to parameter 'lineEndPtr' here- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;                                                              ^/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:26:9: warning: instance method '-applyScript:' not found (return type defaults to 'id') [-Wobjc-method-access]                        [app applyScript:s];                             ^~~~~~~~~~~/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:43:31: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];                                            ^~~~~~In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:36: note: passing argument to parameter 'startPtr' here- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;                                   ^/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:43:42: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];                                                       ^~~~In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:63: note: passing argument to parameter 'lineEndPtr' here- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;                                                              ^/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:55:31: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];                                            ^~~~~~In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:36: note: passing argument to parameter 'startPtr' here- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;                                   ^/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:55:42: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];                                                       ^~~~In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:63: note: passing argument to parameter 'lineEndPtr' here- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;                                                              ^/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:78:31: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];                                            ^~~~~~In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:36: note: passing argument to parameter 'startPtr' here- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;                                   ^/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:78:42: warning: incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *') [-Wincompatible-pointer-types]                [[self string] getLineStart:&start end:&end contentsEnd:nil forRange:(NSRange){[[self string] length]-1,1}];                                                       ^~~~In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:158:63: note: passing argument to parameter 'lineEndPtr' here- (void)getLineStart:(NSUInteger *)startPtr end:(NSUInteger *)lineEndPtr contentsEnd:(NSUInteger *)contentsEndPtr forRange:(NSRange)range;                                                              ^/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:110:17: warning: 'writeToFile:atomically:' is deprecated: first deprecated in OS X 10.4 [-Wdeprecated-declarations]        [[self string] writeToFile:path atomically:YES];                       ^In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:351:1: note: method 'writeToFile:atomically:' declared here- (BOOL)writeToFile:(NSString *)path atomically:(BOOL)useAuxiliaryFile NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);^10 warnings generated.10(36%IDEClangDiagnosticActivityLogMessage2@111"Incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *')-414942702#18446744073709551615#0#1(2@45"Passing argument to parameter 'startPtr' here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^157#35#157#35#9876#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^20#31#20#31#410#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^20#31#20#37#410#1#-2@111"Incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *')-414942702#18446744073709551615#0#1(2@47"Passing argument to parameter 'lineEndPtr' here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^157#62#157#62#9903#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^20#42#20#42#421#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^20#42#20#46#421#1#-2@72"Instance method '-applyScript:' not found (return type defaults to 'id')-414942702#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^25#8#25#8#621#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^25#8#25#19#621#0#-2@111"Incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *')-414942702#18446744073709551615#0#1(2@45"Passing argument to parameter 'startPtr' here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^157#35#157#35#9876#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^42#30#42#30#955#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^42#30#42#36#955#1#-2@111"Incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *')-414942702#18446744073709551615#0#1(2@47"Passing argument to parameter 'lineEndPtr' here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^157#62#157#62#9903#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^42#41#42#41#966#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^42#41#42#45#966#1#-2@111"Incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *')-414942702#18446744073709551615#0#1(2@45"Passing argument to parameter 'startPtr' here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^157#35#157#35#9876#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^54#30#54#30#1312#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^54#30#54#36#1312#1#-2@111"Incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *')-414942702#18446744073709551615#0#1(2@47"Passing argument to parameter 'lineEndPtr' here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^157#62#157#62#9903#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^54#41#54#41#1323#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^54#41#54#45#1323#1#-2@111"Incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *')-414942702#18446744073709551615#0#1(2@45"Passing argument to parameter 'startPtr' here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^157#35#157#35#9876#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^77#30#77#30#1808#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^77#30#77#36#1808#1#-2@111"Incompatible pointer types sending 'unsigned int *' to parameter of type 'NSUInteger *' (aka 'unsigned long *')-414942702#18446744073709551615#0#1(2@47"Passing argument to parameter 'lineEndPtr' here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^157#62#157#62#9903#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^77#41#77#41#1819#0#14"Semantic Issue1(3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^77#41#77#45#1819#1#-2@70"'writeToFile:atomically:' is deprecated: first deprecated in OS X 10.4-414942702#18446744073709551615#0#1(2@46"Method 'writeToFile:atomically:' declared here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^350#0#350#0#24299#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^109#16#109#16#2539#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@78"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m0000000000000000^2826"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.o MyTextView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.dia -c /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyTextView.m -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.o36"832EA5B5-1857-4A7B-8E16-315BD21D3F07-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942702.775768
+e414942702.865046
+r1
+xCompileC
+xbuild/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.o
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.h
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.h
+d/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.h
+d/Users/roberto/Applications/brainbits/RAMONES/colourmap.h
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m:177:9: warning: 'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt" [-Wdeprecated-declarations]
+o        gluLookAt (0,0,-10, 0,0,0, 0,1,0); // eye,center,updir
+o        ^
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.h:5:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:265:13: note: 'gluLookAt' declared here
+oextern void gluLookAt (GLdouble eyeX, GLdouble eyeY, GLdouble eyeZ, GLdouble centerX, GLdouble centerY, GLdouble centerZ, GLdouble upX, GLdouble upY, GLdouble upZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeLookAt");
+o            ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m168"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.o MyView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf4a6c6ee85bbb841^0073ddee85bbb841^-928"/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m:177:9: warning: 'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt" [-Wdeprecated-declarations]        gluLookAt (0,0,-10, 0,0,0, 0,1,0); // eye,center,updir        ^In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.h:5:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:265:13: note: 'gluLookAt' declared hereextern void gluLookAt (GLdouble eyeX, GLdouble eyeY, GLdouble eyeZ, GLdouble centerX, GLdouble centerY, GLdouble centerZ, GLdouble upX, GLdouble upY, GLdouble upZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeLookAt");            ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@85"'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt"-414942702#18446744073709551615#0#1(2@25"'gluLookAt' declared here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@175"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^264#12#264#12#14161#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m0000000000000000^176#8#176#8#4599#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@74"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m0000000000000000^2802"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.o MyView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.dia -c /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/MyView.m -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.o36"6DB2EFDC-7258-4F12-8B7A-2DB7530B20BD-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.o /Users/roberto/Applications/brainbits/RAMONES/RAMON.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942702.776108
+e414942702.820255
+r1
+xCompileC
+xbuild/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.o
+x/Users/roberto/Applications/brainbits/RAMONES/RAMON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/RAMON.m
+d/Users/roberto/Applications/brainbits/RAMONES/RAMON.h
+o/Users/roberto/Applications/brainbits/RAMONES/RAMON.m:62:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o                        printf(consoleMsg);
+o                               ^~~~~~~~~~
+o/Users/roberto/Applications/brainbits/RAMONES/RAMON.m:87:65: warning: 'stringWithCString:' is deprecated: first deprecated in OS X 10.4 [-Wdeprecated-declarations]
+o                        [[[NSApp orderedWindows] objectAtIndex:0] setTitle:[NSString stringWithCString:(*ctlg).connection[i].name]];
+o                                                                                     ^
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/RAMON.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363:1: note: method 'stringWithCString:' declared here
+o+ (id)stringWithCString:(const char *)bytes NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);
+o^
+o/Users/roberto/Applications/brainbits/RAMONES/RAMON.m:97:12: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o                                printf(consoleMsg);
+o                                       ^~~~~~~~~~
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/roberto/Applications/brainbits/RAMONES/RAMON.m212"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.o /Users/roberto/Applications/brainbits/RAMONES/RAMON.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2ec8c6ee85bbb841^f8fbd1ee85bbb841^-2010"/Users/roberto/Applications/brainbits/RAMONES/RAMON.m:62:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                        printf(consoleMsg);                               ^~~~~~~~~~/Users/roberto/Applications/brainbits/RAMONES/RAMON.m:87:65: warning: 'stringWithCString:' is deprecated: first deprecated in OS X 10.4 [-Wdeprecated-declarations]                        [[[NSApp orderedWindows] objectAtIndex:0] setTitle:[NSString stringWithCString:(*ctlg).connection[i].name]];                                                                                     ^In file included from /Users/roberto/Applications/brainbits/RAMONES/RAMON.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h:8:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363:1: note: method 'stringWithCString:' declared here+ (id)stringWithCString:(const char *)bytes NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);^/Users/roberto/Applications/brainbits/RAMONES/RAMON.m:97:12: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                                printf(consoleMsg);                                       ^~~~~~~~~~3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-414942702#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@60"file:///Users/roberto/Applications/brainbits/RAMONES/RAMON.m0000000000000000^61#10#61#10#1405#0#19"Format String Issue1(3@60"file:///Users/roberto/Applications/brainbits/RAMONES/RAMON.m0000000000000000^61#10#61#20#1405#0#-2@65"'stringWithCString:' is deprecated: first deprecated in OS X 10.4-414942702#18446744073709551615#0#1(2@41"Method 'stringWithCString:' declared here-414942702#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@184"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^362#0#362#0#25259#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@60"file:///Users/roberto/Applications/brainbits/RAMONES/RAMON.m0000000000000000^86#64#86#64#2077#0#12"Deprecations--2@60"Format string is not a string literal (potentially insecure)-414942702#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@60"file:///Users/roberto/Applications/brainbits/RAMONES/RAMON.m0000000000000000^96#11#96#11#2310#0#19"Format String Issue1(3@60"file:///Users/roberto/Applications/brainbits/RAMONES/RAMON.m0000000000000000^96#11#96#21#2310#0#-0#0#1#-19%DVTDocumentLocation4@60"file:///Users/roberto/Applications/brainbits/RAMONES/RAMON.m0000000000000000^2829"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.o /Users/roberto/Applications/brainbits/RAMONES/RAMON.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.dia -c /Users/roberto/Applications/brainbits/RAMONES/RAMON.m -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.o36"0FFEC69B-76AC-46FC-B421-1D042D677991-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942702.776025
+e414942702.819771
+r1
+xCompileC
+xbuild/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.o
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.h
+o/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m:112:13: warning: instance method '-rotateBy:' not found (return type defaults to 'id') [-Wobjc-method-access]
+o    [sender rotateBy:rot];
+o            ^~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m174"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.o Trackball.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler22c3c6ee85bbb841^e3ddd1ee85bbb841^-250"/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m:112:13: warning: instance method '-rotateBy:' not found (return type defaults to 'id') [-Wobjc-method-access]    [sender rotateBy:rot];            ^~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@69"Instance method '-rotateBy:' not found (return type defaults to 'id')-414942702#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m0000000000000000^111#12#111#12#4198#0#14"Semantic Issue1(3@77"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m0000000000000000^111#12#111#20#4198#0#-0#0#1#-19%DVTDocumentLocation4@77"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m0000000000000000^2820"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.o Trackball.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.dia -c /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Trackball.m -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.o36"9103FF52-64CF-4B2A-AF98-44855CF9E873-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CCompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942702.775628
+e414942702.795398
+r1
+xCompileC
+xbuild/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.o
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m164"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler34a0c6ee85bbb841^94a0cbee85bbb841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m0000000000000000^2790"CompileC build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.dia -c /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/main.m -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.o36"0FAA1BA5-22C8-433F-875A-8B7F157BECCD-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CCopyStringsFile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s414942702.387338
+e414942702.390370
+r1
+xCopyStringsFile
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings127"CopyStringsFile build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings7a3663ee85bbb841^130b64ee85bbb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/InfoPlist.strings0000000000000000^441"CopyStringsFile build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"CFC901A4-DD72-465B-BF7A-F05AA2196953-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CCpResource SurfaceRAMON.icns build/Debug/SurfaceRAMON.app/Contents/Resources/SurfaceRAMON.icns
+s414942702.387605
+e414942702.388832
+r1
+xCpResource
+xSurfaceRAMON.icns
+xbuild/Debug/SurfaceRAMON.app/Contents/Resources/SurfaceRAMON.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/SurfaceRAMON.app/Contents/Resources/SurfaceRAMON.icns94"CpResource SurfaceRAMON.icns build/Debug/SurfaceRAMON.app/Contents/Resources/SurfaceRAMON.icns3d4863ee85bbb841^ecbe63ee85bbb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/SurfaceRAMON.icns0034d096dcffdf42^457"CpResource SurfaceRAMON.icns build/Debug/SurfaceRAMON.app/Contents/Resources/SurfaceRAMON.icns    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON.icns /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources36"4947CCD9-3A29-440B-BD32-C5F6B8ABD36E-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CLd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/MacOS/SurfaceRAMON normal x86_64
+s414942702.866934
+e414942702.900215
+r1
+xLd
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/MacOS/SurfaceRAMON
+xnormal
+xx86_64
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/SurfaceRAMON.LinkFileList
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/main.o
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyView.o
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyAppController.o
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/Trackball.o
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/RAMON.o
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/FreeSurfer.o
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/MyTextView.o
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/MacOS/SurfaceRAMON73"Ld build/Debug/SurfaceRAMON.app/Contents/MacOS/SurfaceRAMON normal x86_642ffbddee85bbb841^e274e6ee85bbb841^---0#0#1#--1138"Ld build/Debug/SurfaceRAMON.app/Contents/MacOS/SurfaceRAMON normal x86_64    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug -filelist /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/SurfaceRAMON.LinkFileList -mmacosx-version-min=10.9 -fobjc-link-runtime -framework Cocoa -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/Objects-normal/x86_64/SurfaceRAMON_dependency_info.dat -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/MacOS/SurfaceRAMON36"3375E318-2308-4603-B636-2555AC248ECD-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CProcessInfoPlistFile /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Info.plist /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Info.plist
+s414942702.384088
+e414942702.385642
+r1
+xProcessInfoPlistFile
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Info.plist
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Info.plist80"ProcessInfoPlistFile build/Debug/SurfaceRAMON.app/Contents/Info.plist Info.plistcc6262ee85bbb841^462763ee85bbb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Info.plist0000000000000000^512"ProcessInfoPlistFile build/Debug/SurfaceRAMON.app/Contents/Info.plist Info.plist    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    builtin-infoPlistUtility /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/Info.plist -genpkginfo /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Info.plist36"DFDC4615-B0F4-4ABC-8757-79E991135AB8-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CProcessPCH /Users/roberto/Library/Developer/Xcode/DerivedData/SurfaceRAMON-cqkumzxxpjqorabdesctvqlfgyty/Index/PrecompiledHeaders/SurfaceRAMON_Prefix-bjjgmdusljrkkjegcizclakwenvk_ast/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/roberto/Library/Developer/Xcode/DerivedData/SurfaceRAMON-cqkumzxxpjqorabdesctvqlfgyty/Index/PrecompiledHeaders/SurfaceRAMON_Prefix-ccemvnnxlrhjorcxfxbemepoizdd_ast/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s414942236.367532
+e414942236.380553
+r1
+xProcessPCH
+x/var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.pch
+xSurfaceRAMON_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile SurfaceRAMON_Prefix.pch289"ProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerf7225e1c84bbb841^f86c611c84bbb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch0000000000000000^2703"ProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug --serialize-diagnostics /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.d -c /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch -o /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-apeiguttegaektadxawwzomoqice/SurfaceRAMON_Prefix.pch.pch36"B925A717-3286-45FE-A3C7-762298A6F924-
+b205A1334-BAF0-4B25-92F8-1ECA4D3ED3B5
+
+CProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942236.367333
+e414942236.963933
+r1
+xProcessPCH
+x/var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.pch
+xSurfaceRAMON_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile SurfaceRAMON_Prefix.pch299"ProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler05185e1c84bbb841^a8c7f61c84bbb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch0000000000000000^2916"ProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.pch SurfaceRAMON_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/SurfaceRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/SurfaceRAMON.build/Debug/SurfaceRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug --serialize-diagnostics /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.d -c /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/SurfaceRAMON_Prefix.pch -o /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SurfaceRAMON_Prefix-cellnrmprvjpjpavfamaweraovdu/SurfaceRAMON_Prefix.pch.pch36"7794A338-5933-4FA7-B237-E1B6924F67EB-
+b205A1334-BAF0-4B25-92F8-1ECA4D3ED3B5
+
+CStripNIB /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/MainMenu.nib
+s414942702.386036
+e414942702.775037
+r1
+xStripNIB
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/MainMenu.nib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Processing /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/MainMenu.nib35"StripNIB English.lproj/MainMenu.niba4e362ee85bbb841^cf69c6ee85bbb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/MainMenu.nib/0000000000000000^544"StripNIB English.lproj/MainMenu.nib    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    setenv XCODE_DEVELOPER_USR_PATH /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/..    /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/ibtool --strip /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/English.lproj/MainMenu.nib36"79BB98B2-5322-4470-94D3-54088A71865E-
+b6197BE84-8C7F-49A6-B8E7-1B16F7A81055
+
+CTouch /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app
+s414942572.682038
+e414942572.685526
+r1
+xTouch
+x/Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app34"Touch build/Debug/SurfaceRAMON.app38a3ae6c85bbb841^6b7faf6c85bbb841^---0#0#1#--211"Touch build/Debug/SurfaceRAMON.app    cd /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON    /usr/bin/touch -c /Users/roberto/Applications/brainbits/RAMONES/SurfaceRAMON/build/Debug/SurfaceRAMON.app36"A2597BA5-1110-4502-9806-10D424202A49-
+bC71BB3F9-5DDA-4CFE-A120-45DC782940BB
+

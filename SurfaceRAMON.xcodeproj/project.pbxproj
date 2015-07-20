@@ -1,0 +1,358 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		620327AC09EF6FC400E68EC0 /* RAMON.m in Sources */ = {isa = PBXBuildFile; fileRef = 620327AB09EF6FC400E68EC0 /* RAMON.m */; };
+		6223CC840AE8CFB9005EFFF7 /* SurfaceRAMON.icns in Resources */ = {isa = PBXBuildFile; fileRef = 6223CC830AE8CFB9005EFFF7 /* SurfaceRAMON.icns */; };
+		6254649209ED878F007DE594 /* Trackball.m in Sources */ = {isa = PBXBuildFile; fileRef = 6254649109ED878F007DE594 /* Trackball.m */; };
+		626723B70AE903D200D54984 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 626723B60AE903D200D54984 /* OpenGL.framework */; };
+		6279BEC209EFD8B000D5197A /* FreeSurfer.c in Sources */ = {isa = PBXBuildFile; fileRef = 6279BEC009EFD8B000D5197A /* FreeSurfer.c */; };
+		62BC2CBB09E554F500B172EE /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 62BC2CBA09E554F500B172EE /* MyView.m */; };
+		62BC2CBE09E554FE00B172EE /* MyAppController.m in Sources */ = {isa = PBXBuildFile; fileRef = 62BC2CBC09E554FE00B172EE /* MyAppController.m */; };
+		62FF984F0AE7778700987AF6 /* MyTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 62FF984E0AE7778700987AF6 /* MyTextView.m */; };
+		8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 29B97318FDCFA39411CA2CEA /* MainMenu.nib */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97319FDCFA39411CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32CA4F630368D1EE00C91783 /* SurfaceRAMON_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SurfaceRAMON_Prefix.pch; sourceTree = "<group>"; };
+		620327AA09EF6FC400E68EC0 /* RAMON.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = RAMON.h; path = ../RAMON.h; sourceTree = SOURCE_ROOT; };
+		620327AB09EF6FC400E68EC0 /* RAMON.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; name = RAMON.m; path = ../RAMON.m; sourceTree = SOURCE_ROOT; };
+		621856CA09F6139C00DB88E2 /* colourmap.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = colourmap.h; path = ../colourmap.h; sourceTree = SOURCE_ROOT; };
+		6219D6AF0F499A4500D00274 /* common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = common.h; sourceTree = "<group>"; };
+		6223CC830AE8CFB9005EFFF7 /* SurfaceRAMON.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = SurfaceRAMON.icns; sourceTree = "<group>"; };
+		6254649009ED878F007DE594 /* Trackball.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = Trackball.h; sourceTree = "<group>"; };
+		6254649109ED878F007DE594 /* Trackball.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = Trackball.m; sourceTree = "<group>"; };
+		626723B60AE903D200D54984 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
+		6279BEC009EFD8B000D5197A /* FreeSurfer.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = FreeSurfer.c; path = ../FreeSurfer.c; sourceTree = SOURCE_ROOT; };
+		6279BEC109EFD8B000D5197A /* FreeSurfer.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = FreeSurfer.h; path = ../FreeSurfer.h; sourceTree = SOURCE_ROOT; };
+		62BC2CB909E554F500B172EE /* MyView.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = MyView.h; sourceTree = "<group>"; };
+		62BC2CBA09E554F500B172EE /* MyView.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
+		62BC2CBC09E554FE00B172EE /* MyAppController.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = MyAppController.m; sourceTree = "<group>"; };
+		62BC2CBD09E554FE00B172EE /* MyAppController.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = MyAppController.h; sourceTree = "<group>"; };
+		62FF984D0AE7778700987AF6 /* MyTextView.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = MyTextView.h; sourceTree = "<group>"; };
+		62FF984E0AE7778700987AF6 /* MyTextView.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = MyTextView.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* SurfaceRAMON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SurfaceRAMON.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				626723B70AE903D200D54984 /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				62BC2CBD09E554FE00B172EE /* MyAppController.h */,
+				62BC2CBC09E554FE00B172EE /* MyAppController.m */,
+				62BC2CB909E554F500B172EE /* MyView.h */,
+				62BC2CBA09E554F500B172EE /* MyView.m */,
+				6254649009ED878F007DE594 /* Trackball.h */,
+				6254649109ED878F007DE594 /* Trackball.m */,
+				62FF984D0AE7778700987AF6 /* MyTextView.h */,
+				62FF984E0AE7778700987AF6 /* MyTextView.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* SurfaceRAMON.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* SurfaceRAMON */ = {
+			isa = PBXGroup;
+			children = (
+				620327A909EF6FB200E68EC0 /* RAMON */,
+				6279BEBF09EFD89400D5197A /* Standard C */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				6219D6AF0F499A4500D00274 /* common.h */,
+			);
+			name = SurfaceRAMON;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* SurfaceRAMON_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6223CC830AE8CFB9005EFFF7 /* SurfaceRAMON.icns */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				29B97318FDCFA39411CA2CEA /* MainMenu.nib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				626723B60AE903D200D54984 /* OpenGL.framework */,
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		620327A909EF6FB200E68EC0 /* RAMON */ = {
+			isa = PBXGroup;
+			children = (
+				620327AA09EF6FC400E68EC0 /* RAMON.h */,
+				620327AB09EF6FC400E68EC0 /* RAMON.m */,
+			);
+			name = RAMON;
+			sourceTree = "<group>";
+		};
+		6279BEBF09EFD89400D5197A /* Standard C */ = {
+			isa = PBXGroup;
+			children = (
+				621856CA09F6139C00DB88E2 /* colourmap.h */,
+				6279BEC109EFD8B000D5197A /* FreeSurfer.h */,
+				6279BEC009EFD8B000D5197A /* FreeSurfer.c */,
+			);
+			name = "Standard C";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* SurfaceRAMON */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 62BC2CAF09E5545E00B172EE /* Build configuration list for PBXNativeTarget "SurfaceRAMON" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SurfaceRAMON;
+			productInstallPath = "$(HOME)/Applications";
+			productName = SurfaceRAMON;
+			productReference = 8D1107320486CEB800E47090 /* SurfaceRAMON.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 62BC2CB309E5545E00B172EE /* Build configuration list for PBXProject "SurfaceRAMON" */;
+			compatibilityVersion = "Xcode 2.4";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* SurfaceRAMON */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* SurfaceRAMON */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */,
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				6223CC840AE8CFB9005EFFF7 /* SurfaceRAMON.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				62BC2CBB09E554F500B172EE /* MyView.m in Sources */,
+				62BC2CBE09E554FE00B172EE /* MyAppController.m in Sources */,
+				6254649209ED878F007DE594 /* Trackball.m in Sources */,
+				620327AC09EF6FC400E68EC0 /* RAMON.m in Sources */,
+				6279BEC209EFD8B000D5197A /* FreeSurfer.c in Sources */,
+				62FF984F0AE7778700987AF6 /* MyTextView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		29B97318FDCFA39411CA2CEA /* MainMenu.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				29B97319FDCFA39411CA2CEA /* English */,
+			);
+			name = MainMenu.nib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		62BC2CB009E5545E00B172EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SurfaceRAMON_Prefix.pch;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PREBINDING = NO;
+				PRODUCT_NAME = SurfaceRAMON;
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		62BC2CB109E5545E00B172EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SurfaceRAMON_Prefix.pch;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PREBINDING = NO;
+				PRODUCT_NAME = SurfaceRAMON;
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		62BC2CB209E5545E00B172EE /* Default */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SurfaceRAMON_Prefix.pch;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = SurfaceRAMON;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Default;
+		};
+		62BC2CB409E5545E00B172EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		62BC2CB509E5545E00B172EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		62BC2CB609E5545E00B172EE /* Default */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Default;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		62BC2CAF09E5545E00B172EE /* Build configuration list for PBXNativeTarget "SurfaceRAMON" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				62BC2CB009E5545E00B172EE /* Debug */,
+				62BC2CB109E5545E00B172EE /* Release */,
+				62BC2CB209E5545E00B172EE /* Default */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Default;
+		};
+		62BC2CB309E5545E00B172EE /* Build configuration list for PBXProject "SurfaceRAMON" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				62BC2CB409E5545E00B172EE /* Debug */,
+				62BC2CB509E5545E00B172EE /* Release */,
+				62BC2CB609E5545E00B172EE /* Default */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Default;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
